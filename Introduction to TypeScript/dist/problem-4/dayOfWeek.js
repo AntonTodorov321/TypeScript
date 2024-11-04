@@ -37,6 +37,3 @@ function printDay(day) {
     ;
 }
 ;
-printDay('Monday');
-printDay('Friday');
-printDay('Fridayw');
