@@ -28,3 +28,4 @@ heroes.forEach((hero) => {
     console.log(`level => ${hero.level}`);
     console.log(`Items => ${hero.items ? hero.items.join(", ") : ''}`);
 });
+//# sourceMappingURL=inventory.js.map

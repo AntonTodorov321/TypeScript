@@ -10,3 +10,4 @@ function printPersonInfo(firstName, lastName, age) {
     console.log(`age: ${person.age}`);
 }
 ;
+//# sourceMappingURL=personInfo.js.map

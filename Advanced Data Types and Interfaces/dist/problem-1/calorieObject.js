@@ -33,3 +33,4 @@ for (let index = 0; index < foods.length; index++) {
 }
 ;
 console.log(output);
+//# sourceMappingURL=calorieObject.js.map
