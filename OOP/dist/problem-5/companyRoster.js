@@ -60,7 +60,7 @@ const bestDepartment = getDepartmentWithHighestSalary([
     "John 609.99 Manager Sales john@abv.bg 44",
     "Venci 0.02 Director BeerDrinking beer@beer.br 23",
     "Andre 700.00 Director Coding",
-    "Popeye 13.3333 Sailor SpinachGroup popeye@pop.ey"
+    "Popeye 13.3333 Sailor SpinachGroup popeye@pop.ey",
 ]);
 console.log(`Highest Average Salary: ${bestDepartment.name}`);
 bestDepartment.empolyees.forEach((employee) => {
